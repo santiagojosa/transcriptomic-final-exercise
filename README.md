@@ -7,7 +7,7 @@ El trabajo consta de dos apartados en los que se utilizarán datos de un experim
 El **primer apartado (3 preguntas)** abarca los pasos de control de calidad y de fuentes de contaminación, *trimming*, alineamiento y cuantificación para obtener cuentas crudas y normalizadas a partir de un **subset de ficheros fastq**. El **segundo apartado (2 preguntas)** parte de la **matriz completa de cuentas crudas** y está enfocado en realizar un control de calidad biológico, detectar los genes diferencialmente expresados entre condiciones y los pathways enriquecidos en cada una de ellas.
 
 ### Apartado 1
-El dataset original consta de 27 muestras paired-end depositadas en SRA. Con el fin de poder abordar las cuestiones planteadas a en el primer apartado sólo es necesario descargar 2 muestras (SRR479052 y SRR479054), es decir cuatro ficheros fastq. Además, en este repositorio se proporciona:
+El dataset original (GSE37211) consta de 27 muestras paired-end depositadas en SRA. Con el fin de poder abordar las cuestiones planteadas a en el primer apartado sólo es necesario descargar 2 muestras (SRR479052 y SRR479054), es decir cuatro ficheros fastq. Además, en este repositorio se proporciona:
 
 - Un fichero fasta con la secuencia de la referencia genómica, en este caso correspondiente al cromosoma 21 humano (ensamblaje GRCh38).
 - Un fichero GTF con la anotación génica para los genes del cromosoma 21 (GRCh38.ensembl.109).
