@@ -1,0 +1,11 @@
+HISAT2 summary stats:
+	Total pairs: 9397
+		Aligned concordantly or discordantly 0 time: 1780 (18.94%)
+		Aligned concordantly 1 time: 7497 (79.78%)
+		Aligned concordantly >1 times: 0 (0.00%)
+		Aligned discordantly 1 time: 120 (1.28%)
+	Total unpaired reads: 3560
+		Aligned 0 time: 1763 (49.52%)
+		Aligned 1 time: 1797 (50.48%)
+		Aligned >1 times: 0 (0.00%)
+	Overall alignment rate: 90.62%
