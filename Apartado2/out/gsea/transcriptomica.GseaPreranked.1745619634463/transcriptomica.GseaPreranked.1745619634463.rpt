@@ -1,0 +1,23 @@
+producer_class	xtools.gsea.GseaPreranked
+producer_timestamp	1745619634463
+param	rpt_label	transcriptomica
+param	rnd_seed	123
+param	set_min	15
+param	zip_report	false
+param	create_svgs	false
+param	scoring_scheme	weighted
+param	rnk	/home/vant/Documentos/Master_Bioinfo/Tema12_Transcriptomica/transcriptomic-final-exercise/Apartado2/out/tabs/DEA.rnk
+param	norm	meandiv
+param	out	/home/vant/Documentos/Master_Bioinfo/Tema12_Transcriptomica/transcriptomic-final-exercise/Apartado2/out/gsea
+param	mode	Abs_max_of_probes
+param	include_only_symbols	true
+param	help	false
+param	set_max	500
+param	gmx	/home/vant/Documentos/Master_Bioinfo/Tema12_Transcriptomica/transcriptomic-final-exercise/Apartado2/input/DPN_response.gmt
+param	make_sets	true
+param	plot_top_x	20
+param	gui	false
+param	nperm	1000
+param	collapse	No_Collapse
+
+file	/home/vant/Documentos/Master_Bioinfo/Tema12_Transcriptomica/transcriptomic-final-exercise/Apartado2/out/gsea/transcriptomica.GseaPreranked.1745619634463/index.html
