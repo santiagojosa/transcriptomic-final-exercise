@@ -1,0 +1,11 @@
+Module	Section	Sample Name	Source
+FastQ Screen	all_sections	SRR479054.chr21_1	/home/vant/Documentos/Master_Bioinfo/Tema12_Transcriptomica/transcriptomic-final-exercise/Apartado1/out/fastq_screen/SRR479054.chr21_1.fastp_screen.txt
+FastQ Screen	all_sections	SRR479052.chr21_2	/home/vant/Documentos/Master_Bioinfo/Tema12_Transcriptomica/transcriptomic-final-exercise/Apartado1/out/fastq_screen/SRR479052.chr21_2.fastp_screen.txt
+FastQ Screen	all_sections	SRR479054.chr21_2	/home/vant/Documentos/Master_Bioinfo/Tema12_Transcriptomica/transcriptomic-final-exercise/Apartado1/out/fastq_screen/SRR479054.chr21_2.fastp_screen.txt
+FastQ Screen	all_sections	SRR479052.chr21_1	/home/vant/Documentos/Master_Bioinfo/Tema12_Transcriptomica/transcriptomic-final-exercise/Apartado1/out/fastq_screen/SRR479052.chr21_1.fastp_screen.txt
+fastp	all_sections	SRR479052.chr21_1	/home/vant/Documentos/Master_Bioinfo/Tema12_Transcriptomica/transcriptomic-final-exercise/Apartado1/log/fastp/SRR479052.json
+fastp	all_sections	SRR479054.chr21_1	/home/vant/Documentos/Master_Bioinfo/Tema12_Transcriptomica/transcriptomic-final-exercise/Apartado1/log/fastp/SRR479054.json
+FastQC	all_sections	SRR479052.chr21_1	/home/vant/Documentos/Master_Bioinfo/Tema12_Transcriptomica/transcriptomic-final-exercise/Apartado1/out/fastqc/SRR479052.chr21_1.fastp_fastqc.zip
+FastQC	all_sections	SRR479054.chr21_1	/home/vant/Documentos/Master_Bioinfo/Tema12_Transcriptomica/transcriptomic-final-exercise/Apartado1/out/fastqc/SRR479054.chr21_1_fastqc.zip
+FastQC	all_sections	SRR479052.chr21_2	/home/vant/Documentos/Master_Bioinfo/Tema12_Transcriptomica/transcriptomic-final-exercise/Apartado1/out/fastqc/SRR479052.chr21_2_fastqc.zip
+FastQC	all_sections	SRR479054.chr21_2	/home/vant/Documentos/Master_Bioinfo/Tema12_Transcriptomica/transcriptomic-final-exercise/Apartado1/out/fastqc/SRR479054.chr21_2.fastp_fastqc.zip

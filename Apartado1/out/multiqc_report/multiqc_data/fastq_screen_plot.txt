@@ -1,0 +1,5 @@
+Sample	Human	Mouse	Rat	Adapters	Drosophila	rRNA	Multiple Genomes	No hits
+SRR479052.chr21_1	11751.0	4.0	1.0	1.0	1.0	0.0	2679.0	321.0
+SRR479052.chr21_2	11404.0	0.0	0.0	0.0	0.0	0.0	2630.0	724.0
+SRR479054.chr21_1	7596.0	0.0	0.0	1.0	0.0	1.0	1606.0	193.0
+SRR479054.chr21_2	7362.0	1.0	1.0	0.0	0.0	0.0	1562.0	471.0

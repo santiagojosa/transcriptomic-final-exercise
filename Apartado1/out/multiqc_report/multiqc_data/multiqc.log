@@ -1,0 +1,4 @@
+[2025-04-25 11:41:20,697] multiqc.core.file_search                           [INFO   ]  Search path: /home/vant/Documentos/Master_Bioinfo/Tema12_Transcriptomica/transcriptomic-final-exercise/Apartado1
+[2025-04-25 11:41:21,528] multiqc.modules.fastq_screen.fastq_screen          [INFO   ]  Found 4 reports
+[2025-04-25 11:41:21,569] multiqc.modules.fastp.fastp                        [INFO   ]  Found 2 reports
+[2025-04-25 11:41:21,613] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 4 reports

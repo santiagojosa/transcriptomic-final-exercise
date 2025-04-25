@@ -1,0 +1,5 @@
+Sample	fastp-pct_duplication	fastp-after_filtering_q30_rate	fastp-after_filtering_q30_bases	fastp-filtering_result_passed_filter_reads	fastp-after_filtering_gc_content	fastp-pct_surviving	fastp-pct_adapter	fastqc-percent_duplicates	fastqc-percent_gc	fastqc-avg_sequence_length	fastqc-median_sequence_length	fastqc-percent_fails	fastqc-total_sequences
+SRR479052.chr21_1	4.04824	89.1344	2.251811	0.029515999999999997	50.7698	96.20599739243806	29.139504563233377	6.3016668925328645	50.0	85.44321723810815	92	10.0	0.014757999999999999
+SRR479052.chr21_2								6.245110821381999	52.0	101.0	101	30.0	0.01534
+SRR479054.chr21_1	4.42233	88.6036	1.4380089999999999	0.018793999999999998	50.0942	96.41904371024009	24.19454135029756	5.807510773650719	51.0	101.0	101	30.0	0.009746
+SRR479054.chr21_2								5.650739597743964	50.0	85.95599659465788	94	10.0	0.009396999999999999

@@ -1,0 +1,4 @@
+Sample	FastQ Screen	fastp	FastQC
+FastQ Screen	0.16.0		
+FastQC			0.12.1
+fastp		0.24.1	
